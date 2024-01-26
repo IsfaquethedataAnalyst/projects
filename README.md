@@ -1,3 +1,1 @@
-$ git add.
-$ git commit -m "new project"
-$ git commit -am "new project"
+$ Data collection and analysis: This may involve gathering data from a variety of sources, such as databases, spreadsheets, surveys, and interviews. Once the data is collected, the associate analyst will need to clean and organize it before it can be analyzed.
